@@ -6,8 +6,7 @@ An online retail store has hired you as a consultant to review their data and pr
 Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.000 posts per year. We will analyze the sample of this dataset from them.
 
 ## **Project Findings:**
-<img width="600" alt="image" src="https://github.com/Gnpavan/KPMG_Forage_Virtual_Experience_Program/assets/89655397/baffcb75-fa54-416e-9507-27c9b51cb250">
-
+<img width="596" alt="image" src="https://github.com/Gnpavan/KPMG_Forage_Virtual_Experience_Program/assets/89655397/3d52430a-c6ac-4b37-a651-e70dd61d7c9a">
 
 Above is the dashboard I have built with the online retail dataset received from the team. They wanted to understand the better performing countries, top customers, sales by year so that the visuals helps in forecasting the trends of the upcoming years and also they hope the insights would help in understanding the flaws with the sales.
 
