@@ -2,30 +2,32 @@
 
 ## **Project Overview:**
 
-An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
-Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.000 posts per year. We will analyze the sample of this dataset from them.
+Sprocket Central Pty Ltd , a medium-sized bike and cycling accessories organization, has approached a Partner in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd. is keen to learn more about KPMG’s expertise in its Analytics, Information, and Modeling team.
+
+Primarily, Sprocket Central Pty Ltd. needs help with its customer and transaction data. The organization has a large dataset relating to its customers, but their team is unsure how to effectively analyze it to help optimize its marketing strategy.
 
 ## **Project Findings:**
 <img width="596" alt="image" src="https://github.com/Gnpavan/KPMG_Forage_Virtual_Experience_Program/assets/89655397/3d52430a-c6ac-4b37-a651-e70dd61d7c9a">
 
-Above is the dashboard I have built with the online retail dataset received from the team. They wanted to understand the better performing countries, top customers, sales by year so that the visuals helps in forecasting the trends of the upcoming years and also they hope the insights would help in understanding the flaws with the sales.
-
-- United Kingdom is making sales by huge margin when compared to others and is a flag to note.
-- As their major focus was to look at thar 2011 year sales as that was the best compared to 2023, they had exceptional growth in their revenue from the month August to Nivember.
-- It clearly shows that the quantity of products with lesser unit price have more sales.
+- The profit margin between male and femali is almost equal and the orders are also equally split between online and offline orders.
+- As per the data profit iscalculated by subtracting standard cost from the list price, so yeah one gets the doubt like the profit is almost douvle the cost but what I make out of it the standard cost is exclusive of the marketing costs, taxes, labour charges etc..
+- Mass customers give higher profits and New Sount Wales is the state which generates higher profits.
+- Health, manufacturing and financial services are major industries with higher profits.
+- People of age between 36 to 50 have good sale number and profit %.
 
 ## **Project Recommendations:**
 
-- The company should come up with strategies that aim at stocking and advertising seasonal products to maximize sales when the demand for these goods goes up.
-- The company should do a deeper analysis of products that are usually in high demand during low sales months to come up with strategies for marketing these products.
-- A deeper dive into the type of products and the revenue generated from these products for each region would be key in guiding region-specific marketing strategies.
-- The company should consider incentivizing top revenue generating customers to strengthen the relationship with these customers.
+- Structuring the data or sticking to one data formating is ideal.
+- Avoid missing valus, follow correct naming conventions.
+- Conduct surveys to better understand the needs of the senior customers and provide with some perks and discounts to attract them.
+- Comcemtrate on industries like entertainment, IT, agriculture and telecommunication to improve the sales.
 
 ## **Project Outcomes:**
 
-- Completed a simulation involving creating data visualizations for Tata Consultancy Services
-- Prepared questions for a meeting with client senior leadership
-- Created visuals for data analysis to help executives with effective decision making
+- Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+- Assessed data quality and completeness in preparation for analysis
+- Analysed data to target high-value customers based on demographics and attributes
+- Developed dashboards to communicate findings with visuals
 
 <img width="364" alt="image" src="https://github.com/Gnpavan/KPMG_Forage_Virtual_Experience_Program/assets/89655397/3f8c2a3c-a28b-4aca-8e2e-0b56e08f35f3">
 
